@@ -1,0 +1,3 @@
+Hello, World!
+This is a simple document editor.	It supports text and images.
+path/to/image.jpg
